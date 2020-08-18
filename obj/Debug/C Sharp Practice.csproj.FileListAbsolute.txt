@@ -1,0 +1,7 @@
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.exe.config
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.exe
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\bin\Debug\C Sharp Practice.pdb
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.csprojAssemblyReference.cache
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.exe
+C:\Users\Jack\Documents\Coding Practice\C Sharp Practice\C Sharp Practice\obj\Debug\C Sharp Practice.pdb
